@@ -1,6 +1,7 @@
 # Privacy Policy Of Vysya Ne Chan
 
-** L a s t   U p d a t e  m a y  1 0  2 0 2 6
+** L a s t   U p d a t e  m a y  1 0 • 2 0 2 6 **
+
 This Privacy Policy Vysya about ("we", "us", or "our") collects, uses, and informarion whne you use Vysya Ne Chan 
 ## Collect Information
 To provide our services and ensure the bot functions properly, we may collect and store follower data.
